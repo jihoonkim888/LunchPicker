@@ -10,5 +10,6 @@
     {"name": "타코", "spicy_level": 1},
     {"name": "부리또", "spicy_level": 1},
     {"name": "필라프", "spicy_level": 0},
-    {"name": "포케", "spicy_level": 0}
+    {"name": "포케", "spicy_level": 0},
+    {"name": "토스트", "spicy_level": 0}
 ] 
