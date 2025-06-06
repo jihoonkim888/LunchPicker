@@ -1,0 +1,14 @@
+[
+    {"name": "파스타", "spicy_level": 0},
+    {"name": "피자", "spicy_level": 0},
+    {"name": "햄버거", "spicy_level": 0},
+    {"name": "스테이크", "spicy_level": 0},
+    {"name": "샌드위치", "spicy_level": 0},
+    {"name": "리조또", "spicy_level": 0},
+    {"name": "오믈렛", "spicy_level": 0},
+    {"name": "샐러드", "spicy_level": 0},
+    {"name": "타코", "spicy_level": 1},
+    {"name": "부리또", "spicy_level": 1},
+    {"name": "필라프", "spicy_level": 0},
+    {"name": "포케", "spicy_level": 0}
+] 

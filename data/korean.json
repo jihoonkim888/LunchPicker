@@ -1,0 +1,22 @@
+[
+    {"name": "된장찌개", "spicy_level": 0},
+    {"name": "김치찌개", "spicy_level": 2},
+    {"name": "비빔밥", "spicy_level": 1},
+    {"name": "불고기", "spicy_level": 0},
+    {"name": "갈비탕", "spicy_level": 0},
+    {"name": "냉면", "spicy_level": 0},
+    {"name": "밀면", "spicy_level": 1},
+    {"name": "비빔냉면", "spicy_level": 1},
+    {"name": "떡볶이", "spicy_level": 2},
+    {"name": "제육볶음", "spicy_level": 2},
+    {"name": "순두부찌개", "spicy_level": 1},
+    {"name": "김밥", "spicy_level": 0},
+    {"name": "갈비찜", "spicy_level": 0},
+    {"name": "닭볶음탕", "spicy_level": 2},
+    {"name": "카레", "spicy_level": 1},
+    {"name": "매운탕", "spicy_level": 2},
+    {"name": "초계국수", "spicy_level": 0},
+    {"name": "라면", "spicy_level": 2},
+    {"name": "곱창전골", "spicy_level": 0},
+    {"name": "치킨", "spicy_level": 0}
+] 

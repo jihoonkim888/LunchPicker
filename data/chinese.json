@@ -1,0 +1,15 @@
+[
+    {"name": "짜장면", "spicy_level": 0},
+    {"name": "짬뽕", "spicy_level": 2},
+    {"name": "탕수육", "spicy_level": 0},
+    {"name": "양장피", "spicy_level": 0},
+    {"name": "마파두부", "spicy_level": 2},
+    {"name": "볶음밥", "spicy_level": 0},
+    {"name": "울면", "spicy_level": 0},
+    {"name": "깐풍기", "spicy_level": 1},
+    {"name": "유린기", "spicy_level": 0},
+    {"name": "마라탕", "spicy_level": 2},
+    {"name": "마라샹궈", "spicy_level": 3},
+    {"name": "양꼬치", "spicy_level": 2},
+    {"name": "탄탄멘", "spicy_level": 1}
+] 
