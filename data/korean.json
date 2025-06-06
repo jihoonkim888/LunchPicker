@@ -46,5 +46,7 @@
     {"name": "열무비빔국수", "spicy_level": 1},
     {"name": "쫄면", "spicy_level": 2},
     {"name": "떡만두국", "spicy_level": 0},
-    {"name": "육개장", "spicy_level": 2}
+    {"name": "육개장", "spicy_level": 2},
+    {"name": "칼국수", "spicy_level": 0},
+    {"name": "샤브샤브", "spicy_level": 0}
 ] 
